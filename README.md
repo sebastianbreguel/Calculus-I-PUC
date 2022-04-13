@@ -1,5 +1,5 @@
 # Calculus-I-PUC
-This is a repository, that have all my teach-assistan on the course and my personal textbook of exercise.
+This is a repository, that have all my teacher-assistan on Calculus I on the UC and my personal textbook of exercise.
 
 
 ### Compile textbook:
@@ -27,3 +27,10 @@ This is a repository, that have all my teach-assistan on the course and my perso
     - Maximun, Minimun and grafics functions
     - L'Hopital
     - Optimization
+
+
+Links usselfull:
+
+ - slader.com: have all the answers of books in general(usefull to study with the stewart book)
+ - 
+ - 
