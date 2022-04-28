@@ -10,5 +10,4 @@ In this seccion you have a resume and excersice of:
 - Continuity 
 - Intermediate Value Theorem 
 
-
 Also here are all my teacher assistans with their solutions.
