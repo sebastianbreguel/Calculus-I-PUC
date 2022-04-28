@@ -1,6 +1,9 @@
 # Calculus-I-PUC
 This is a repository, that have all my teacher-assistan on Calculus I on the UC and my personal textbook of exercise.
 
+Also my Teacher assistan with their solution.
+
+
 
 ### Compile textbook:
 
@@ -27,10 +30,7 @@ This is a repository, that have all my teacher-assistan on Calculus I on the UC 
     - Maximun, Minimun and grafics functions
     - L'Hopital
     - Optimization
-
-
-Links usselfull:
-
- - slader.com: have all the answers of books in general(usefull to study with the stewart book)
- - 
- - 
+ - Integrals:
+   - Rieman Sums
+   - Fundamental Theorem of Calculus
+   - Rule Change
