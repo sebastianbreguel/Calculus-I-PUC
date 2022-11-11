@@ -6,7 +6,7 @@ This is a repository, that have all my teacher-assistan and my personal textbook
 
 The repository is organized in the following way:'
 
-- `generals` contains the general content of the course, that are not related to any specific topic.
+- `generals` contains textbook of excersis, the resume and the specification of the content covered in the course.
 - `Teacher-assistant` contains the content of the teacher-assistant, that is the content that I have to teach to the students.
 
 Then I have the following folders, that have the resume, the exercises, the solutions and my teachers assistans maded of the topics of the course:
