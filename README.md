@@ -1,6 +1,5 @@
 # Calculus-I-PUC
-
-This is a repository, that have all my teacher-assistan and my personal textbook of exercise, of the Course MAT1610 Calculus I at UC.
+This is a repository, that have all my TA of Calculus I/Analysis I course and my personal textbook of exercises.
 
 ## content organization
 
