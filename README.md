@@ -1,5 +1,5 @@
 # Calculus-I-PUC
-This is a repository, that have all my TA of Calculus/Analysis I course and my personal textbook of exercises.
+This is a repository, that have all my TA and my personal textbook Calculus/Analysis I  .
 
 ## content organization
 
